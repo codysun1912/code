@@ -1,0 +1,12 @@
+.btn{
+    padding: 20px;
+    margin-left: 50%;
+}
+.primary {
+    background-color: black;
+    color:white;
+}
+
+.d-flex{
+    display: flex;
+}
